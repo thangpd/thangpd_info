@@ -1,4 +1,4 @@
 <?php 
-echo 'Home';
+echo 'Thangpd Home';
 
 ?>
